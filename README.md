@@ -8,19 +8,11 @@
 </p>
 
 </p>
-Problem Statement:
-
-Demonstrate through your app the different kinds of algorithms that a web-streaming app (like Netflix) or an audio-streaming app (like Spotify) may use for their Recommendation Engine.
+Backend by :priyank003 ![link](https://github.com/priyank003/)
 
 
 
-<br/>
 
-## Submission for Microsoft engage '2022
-
-![image001](https://user-images.githubusercontent.com/79754424/167501435-3fea72dd-0e81-4bc3-bb7a-1ca85a715d49.jpg)
-
-<br/>
 
 
 ## Features and Interfaces
